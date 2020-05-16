@@ -7,7 +7,8 @@ PostLine is a social network API with JWT Auth, messages and posts
 ```
 npm install
 ```
-3. Run:
+3. Complete `.env.example` file and rename it to `.env`.
+4. Run:
 ```
 node index.js
 ```
